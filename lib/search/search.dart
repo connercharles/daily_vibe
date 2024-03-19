@@ -21,8 +21,8 @@ class SearchPage extends StatefulWidget {
 }
 
 class _SearchPageState extends State<SearchPage> {
-  final id = 'c08655074af84a61a6ff65befc2e5079';
-  final secret = '7d60927a6c684497bb4322da5793eb63';
+  final id = 'ID_123';
+  final secret = 'SECRET_123';
   late SpotifyApiCredentials credentials;
   late SpotifyApi spotify;
 
